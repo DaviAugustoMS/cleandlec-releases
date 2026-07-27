@@ -1,5 +1,5 @@
 {
-  "version": "0.1.37",
-  "url": "https://github.com/DaviAugustoMS/cleandlec-releases/releases/download/v0.1.37/CleanDLEC-0.1.37.dmg",
-  "notes": "Ajustes nativos do macOS (⌘,) com abas Geral, IA, Feedback e Sobre · Envie feedback direto do app (nota + comentário, com opção de aparecer no site) · Novidades agora em modal, uma vez por versão · Linha do Tempo do Disco: gráfico do espaço usado e as pastas que mais cresceram · Atualização com “Atualizar agora/Agora não”, barra de progresso, auto-update opcional e notificação · Rever introdução pelo menu · Correções: portas sem vírgula, navegação entre telas, registro de dispositivo sem erro 500."
+  "version": "0.1.38",
+  "url": "https://github.com/DaviAugustoMS/cleandlec-releases/releases/download/v0.1.38/CleanDLEC-0.1.38.dmg",
+  "notes": "Ao desinstalar app, faz limpeza mais profunda."
 }
