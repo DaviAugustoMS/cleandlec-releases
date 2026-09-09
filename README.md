@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/DaviAugustoMS.png" width="80" alt="CleanDLEC" />
+  <img src="cleandlec-icon.png" width="96" alt="CleanDLEC" />
 </p>
 
 <h1 align="center">CleanDLEC</h1>
