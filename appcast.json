@@ -1,5 +1,5 @@
 {
-  "version": "0.1.40",
-  "url": "https://github.com/DaviAugustoMS/cleandlec-releases/releases/download/v0.1.40/CleanDLEC-0.1.40.dmg",
-  "notes": "Melhorias e correções."
+  "version": "0.1.50",
+  "url": "https://github.com/DaviAugustoMS/cleandlec-releases/releases/download/v0.1.50/CleanDLEC-0.1.50.dmg",
+  "notes": "Caixa de Entrada do Disco: instaladores já usados, zips extraídos, capturas antigas e arquivos esquecidos em Downloads\n\nApoie o projeto: coração na barra da janela (GitHub Sponsors)\n\nBusca Inteligente: data de último uso em cada item, exclusão sempre manual e visível só com IA conectada\n\nComponentes: vida útil da bateria (ciclos, capacidade, condição) e S.M.A.R.T. do disco, com avisos de manutenção\n\nAjustes nativos (⌘,) com Feedback e Histórico\n\nNovidades em modal."
 }
