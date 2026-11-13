@@ -1,5 +1,5 @@
 {
-  "version": "1.0.0",
-  "url": "https://github.com/DaviAugustoMS/cleandlec-releases/releases/download/v1.0.0/CleanDLEC-1.0.0.dmg",
-  "notes": "Versão 1.0.0"
+  "version": "1.0.1",
+  "url": "https://github.com/DaviAugustoMS/cleandlec-releases/releases/download/v1.0.1/CleanDLEC-1.0.1.dmg",
+  "notes": "Novo ID do app (app.dleclabs.clean): instale esta versão manualmente, pois a atualização automática não alcança a 1.0.0. Preferências e licença são migradas; permissões do macOS (Acesso Total ao Disco, notificações) precisam ser concedidas de novo. Painel da barra de menus: lista completa de apps em segundo plano (Ver todos), incluindo apps do Dock sem janela. Desinstalador: selo APPLE e remoção de mais apps da Apple (Xcode, Final Cut, Logic Pro etc.)."
 }
