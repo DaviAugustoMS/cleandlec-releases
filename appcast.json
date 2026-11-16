@@ -1,5 +1,5 @@
 {
-  "version": "1.1.0",
-  "url": "https://github.com/DaviAugustoMS/cleandlec-releases/releases/download/v1.1.0/CleanDLEC-1.1.0.dmg",
-  "notes": "Otimizador de Jogos (beta): detecta o jogo aberto, pede permissão antes de fechar outros apps, mostra progresso, temperatura do Mac e alertas de calor e bateria."
+  "version": "1.1.1",
+  "url": "https://github.com/DaviAugustoMS/cleandlec-releases/releases/download/v1.1.1/CleanDLEC-1.1.1.dmg",
+  "notes": "Correção: a tela de Segurança agora atualiza ao voltar para o app, então o Firewall não aparece mais desligado depois de ativado."
 }
