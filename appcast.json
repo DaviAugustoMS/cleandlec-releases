@@ -1,5 +1,5 @@
 {
-  "version": "1.1.1",
-  "url": "https://github.com/DaviAugustoMS/cleandlec-releases/releases/download/v1.1.1/CleanDLEC-1.1.1.dmg",
-  "notes": "Correção: a tela de Segurança agora atualiza ao voltar para o app, então o Firewall não aparece mais desligado depois de ativado."
+  "version": "1.1.2",
+  "url": "https://github.com/DaviAugustoMS/cleandlec-releases/releases/download/v1.1.2/CleanDLEC-1.1.2.dmg",
+  "notes": "Correção: o rodapé da Limpeza não corta mais os botões em janelas menores. Novo visual no formulário de feedback e no aviso de atualização."
 }
