@@ -1,5 +1,5 @@
 {
-  "version": "1.1.2",
-  "url": "https://github.com/DaviAugustoMS/cleandlec-releases/releases/download/v1.1.2/CleanDLEC-1.1.2.dmg",
-  "notes": "Correção: o rodapé da Limpeza não corta mais os botões em janelas menores. Novo visual no formulário de feedback e no aviso de atualização."
+  "version": "1.1.3",
+  "url": "https://github.com/DaviAugustoMS/cleandlec-releases/releases/download/v1.1.3/CleanDLEC-1.1.3.dmg",
+  "notes": "Correção: telemetria, feedback e liberação de recursos voltam a funcionar."
 }
